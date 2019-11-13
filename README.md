@@ -1,7 +1,7 @@
 # Curso-R-Ciencia-Datos-Basico
 Este curso presenta los fundamentos necesarios en R para iniciarse en la ciencia de datos.
 
-## Acerca de las lecciones como curso
+## Acerca de las lecciones del curso
 
 Aunque las lecciones forman parte del curso desarrollado en las diversas presentaciones, están diseñados para que el estudiante sea autosuficiente, es decir no es necesario estar inscrito en el curso para aprender.
 
